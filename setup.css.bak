@@ -17,6 +17,17 @@ h1{
   background-color: #DAA520;
   color: #F0E68C;
 }
+
+/* unvisited link */
+a:link {
+  color: #F0E68C;
+}
+
+/* visited link */
+a:visited {
+  color: #8B4513;
+}
+
 .question{
   font-size: 30px;
   margin-bottom: 20px;
@@ -71,7 +82,7 @@ height: 100%;
 width: 250px;
 position: absolute;
 top: 0;
-padding-top: 110px;
+padding-top: 35px;
 background-color: #DAA520;
 color: #F0E68C;
 }
