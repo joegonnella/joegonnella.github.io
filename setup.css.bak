@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Slackey);
-@import url(https://fonts.googleapis.com/css?family=Work+Sans:300,600);
+
 
 body{
-	font-size: 20px;
+	font-size: 30px;
 	font-family: 'Slackey';
 	color: #333;
   font-weight: 300;
@@ -12,48 +12,45 @@ body{
 h1{
   font-weight: 300;
   margin: 0px;
-  padding: 10px;
-  font-size: 20px;
+  padding: 20px;
+  font-size: 40px;
   background-color: #DAA520;
-  color: #fff;
+  color: #F0E68C;
 }
 .question{
   font-size: 30px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 .answers {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   text-align: left;
   display: inline-block;
 }
 .answers label{
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 button{
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Slackey', sans-serif;
 	font-size: 22px;
 	background-color: #279;
 	color: #fff;
 	border: 0px;
-	border-radius: 3px;
-	padding: 20px;
+	border-radius: 7px;
+	padding: 30px;
 	cursor: pointer;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 }
 button:hover{
 	background-color: #38a;
 }
 
 
-
-
-
 .slide{
   position: absolute;
-  left: 0px;
+  left: 300px;
   top: 0px;
-  width: 100%;
+  width: 60%;
   z-index: 1;
   opacity: 0;
   transition: opacity 0.5s;
@@ -64,6 +61,28 @@ button:hover{
 }
 .quiz-container{
   position: relative;
-  height: 200px;
-  margin-top: 40px;
+  height: 350px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.sidebar {
+height: 100%;
+width: 250px;
+position: absolute;
+top: 0;
+padding-top: 110px;
+background-color: #DAA520;
+color: #F0E68C;
+}
+
+.sidebar div {
+padding: 10px;
+font-size: 24px;
+display: block;
+}
+
+.body-text {
+margin-left: 150px;
+font-size: 18px;
 }

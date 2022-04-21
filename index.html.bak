@@ -16,8 +16,7 @@
     <button id="submit">Submit Quiz</button>
     <div id="results"></div>
 	<div class="sidebar">
-    <div>Home</div>
-	<div>SpongeBob SquarePants</div>
+    <div>SpongeBob SquarePants</div>
     <div>Patrick Star</div>
     <div>Squidward Tentacles</div>
 	<div>Mr. Krabs</div>
