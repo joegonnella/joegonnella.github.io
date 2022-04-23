@@ -34,17 +34,21 @@ a:visited {
 }
 
 .sidebar {
-height: 100%;
-width: 250px;
-position: absolute;
-top: 0;
-padding-top: 35px;
-background-color: #DAA520;
-color: #F0E68C;
+  height: 100%;
+  width: 250px;
+  position: absolute;
+  top: 0;
+  padding-top: 35px;
+  background-color: #DAA520;
+  color: #F0E68C;
 }
 
 .sidebar div {
-padding: 10px;
-font-size: 24px;
-display: block;
+  padding: 10px;
+  font-size: 24px;
+  display: block;
+}
+
+.welcome {
+	font-size: 30px;
 }

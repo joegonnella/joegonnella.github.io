@@ -48,14 +48,14 @@ a:visited {
 }
 button{
   font-family: 'Slackey', sans-serif;
-	font-size: 22px;
-	background-color: #279;
-	color: #fff;
-	border: 0px;
-	border-radius: 7px;
-	padding: 30px;
-	cursor: pointer;
-	margin-bottom: 0px;
+  font-size: 22px;
+  background-color: #279;
+  color: #fff;
+  border: 0px;
+  border-radius: 7px;
+  padding: 30px;
+  cursor: pointer;
+  margin-bottom: 0px;
 }
 button:hover{
 	background-color: #38a;
@@ -83,17 +83,18 @@ button:hover{
 }
 
 .sidebar {
-height: 100%;
-width: 250px;
-position: absolute;
-top: 0;
-padding-top: 35px;
-background-color: #DAA520;
-color: #F0E68C;
+  height: 100%;
+  width: 250px;
+  position: absolute;
+  top: 0;
+  padding-top: 35px;
+  background-color: #DAA520;
+  color: #F0E68C;
 }
 
 .sidebar div {
-padding: 10px;
-font-size: 24px;
-display: block;
+  padding: 10px;
+  font-size: 24px;
+  display: block;
 }
+
