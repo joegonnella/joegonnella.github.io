@@ -144,7 +144,7 @@
         c: "Chum",
         d: "Coral bits"
       },
-      correctAnswer: "d"
+      correctAnswer: "b"
     },
 	{
       question: "What is the name of the egg Mrs. Puff gives her class as a project in the epiosde New Student Starfish?",

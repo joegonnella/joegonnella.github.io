@@ -107,54 +107,54 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "What tropical fruit does SpongeBob live in?",
+      question: "Who is Squidward's main rival, stemming from their time together in band class??",
       answers: {
-        a: "Papaya",
-        b: "Mango",
-        c: "Pineapple",
-        d: "Guava"
-      },
-      correctAnswer: "c"
-    },
-    {
-      question: "What kind of undersea life does SpongeBob enjoy catching?",
-      answers: {
-        a: "Jellyfish",
-        b: "Octopus",
-        c: "Krill",
-        d: "Other Sponges"
-      },
-      correctAnswer: "a"
-    },
-	{
-      question: "What must SpongeBob wear to survive when he's inside Sandy's Tree Dome",
-      answers: {
-        a: "A bowtie",
-        b: "A Water Bowl",
-        c: "Jeans",
-        d: "His glasses"
+        a: "Flats the Flounder",
+        b: "Squilliam Fancyson",
+        c: "Monty Moneybags",
+        d: "Mrs. Puff"
       },
       correctAnswer: "b"
     },
     {
-      question: "As of the SpongeBob Movie (2004), how many consecutive Employee of the Month awards has SpongeBob won?",
+      question: "What instrument does Squidward play?",
       answers: {
-        a: "274",
-        b: "6",
-        c: "1000",
-        d: "374"
+        a: "Clarinet",
+        b: "Flute",
+        c: "Oboe",
+        d: "Elbow"
+      },
+      correctAnswer: "a"
+    },
+	{
+      question: "Which of these is a painting that Squidward shows tot he art collector in the episode Artist Unknown",
+      answers: {
+        a: "Squid in Blue",
+        b: "s-quiddy",
+        c: "Thinker's Repose",
+        d: "Bold and Brash"
       },
       correctAnswer: "d"
     },
-	{
-      question: "How many times has SpongeBob failed his driving test, as of the episode Mrs. Puff You're Fired?",
+    {
+      question: "What 'Most Likely To ____' did Squidward win in high school?",
       answers: {
-        a: "1",
-        b: "897",
-        c: "23000",
-        d: "1258056"
+        a: "Become rich and famous",
+        b: "Suck eggs",
+        c: "Spray ink",
+        d: "Fall in love"
       },
-      correctAnswer: "d"
+      correctAnswer: "b"
+    },
+	{
+      question: "What is Squidward's natural hair colour",
+      answers: {
+        a: "Gray",
+        b: "Blonde",
+        c: "Brown",
+        d: "Black"
+      },
+      correctAnswer: "b"
     },
   ];
 

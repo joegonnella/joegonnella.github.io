@@ -124,7 +124,7 @@
         c: "Kickin' Krab",
         d: "The Krab"
       },
-      correctAnswer: "d"
+      correctAnswer: "b"
     },
 	{
       question: "What is the name of Pearl's favourite band?",

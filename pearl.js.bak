@@ -137,7 +137,7 @@
       correctAnswer: "c"
     },
     {
-      question: "Who does Pearl take to her prom with her?",
+      question: "Who does Pearl take to her prom as a chaperone?",
       answers: {
         a: "Octavius Rex",
         b: "Squidward",

@@ -127,7 +127,7 @@
       correctAnswer: "a"
     },
 	{
-      question: "Which of these is a painting that Squidward shows tot he art collector in the episode Artist Unknown",
+      question: "Which of these is a painting that Squidward shows to the art collector in the episode Artist Unknown",
       answers: {
         a: "Squid in Blue",
         b: "s-quiddy",
