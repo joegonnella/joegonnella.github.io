@@ -107,54 +107,54 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "Which type of tropical fruit does SpongeBob live in?",
+      question: "What is Mr. Krabs' first name?",
       answers: {
-        a: "Papaya",
-        b: "Mango",
-        c: "Pineapple",
-        d: "Guava"
+        a: "Derek",
+        b: "Clancy",
+        c: "Moe",
+        d: "Eugene"
       },
-      correctAnswer: "c"
+      correctAnswer: "d"
     },
     {
-      question: "Which kind of undersea life does SpongeBob enjoy catching?",
+      question: "Whose grave does Mr. Krbas defile to get his claws on a rare novelty drinks hat?",
       answers: {
-        a: "Jellyfish",
-        b: "Octopus",
-        c: "Krill",
-        d: "Other Sponges"
+        a: "His father's",
+        b: "Smitty Werben Jaeger Man Jensen's",
+        c: "Margaret Thatcher's",
+        d: "Nosferatu's"
+      },
+      correctAnswer: "b"
+    },
+	{
+      question: "On which ship was Mr. Krabs the head chef?",
+      answers: {
+        a: "S.S. Diarrhoea",
+        b: "S.S. Gourmet",
+        c: "H.M.S. Titanic",
+        d: "The Mayflower"
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "How much money does Mr. Krabs sell SpongeBob to the Flying Dutchman for?",
+      answers: {
+        a: "62 cents",
+        b: "1 dollar",
+        c: "1 cent",
+        d: "12 dollars"
       },
       correctAnswer: "a"
     },
 	{
-      question: "What must SpongeBob wear to survive when he's inside Sandy's Tree Dome",
+      question: "Which lipstick does Mr. Krbas identify on his 1 millionth dollar?",
       answers: {
-        a: "A bowtie",
-        b: "A Water Bowl",
-        c: "Jeans",
-        d: "His glasses"
+        a: "Coral Blue No.5 Semi-gloss",
+        b: "Electric Yellow No.3 Matte",
+        c: "Coral Blue No.2 Semi-gloss",
+        d: "Forest Green No.1 Satin"
       },
-      correctAnswer: "b"
-    },
-    {
-      question: "As of the SpongeBob Movie (2004), how many consecutive Employee of the Month awards has SpongeBob won?",
-      answers: {
-        a: "274",
-        b: "6",
-        c: "1000",
-        d: "374"
-      },
-      correctAnswer: "d"
-    },
-	{
-      question: "How many times has SpongeBob failed his driving test, as of the episode Mrs. Puff You're Fired?",
-      answers: {
-        a: "1",
-        b: "897",
-        c: "23000",
-        d: "1258056"
-      },
-      correctAnswer: "d"
+      correctAnswer: "c"
     },
   ];
 

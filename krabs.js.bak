@@ -107,22 +107,22 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "What tropical fruit does SpongeBob live in?",
+      question: "What is Mr. Krabs' first name?",
       answers: {
-        a: "Papaya",
-        b: "Mango",
-        c: "Pineapple",
-        d: "Guava"
+        a: "Derek",
+        b: "Clancy",
+        c: "Moe",
+        d: "Eugene"
       },
-      correctAnswer: "c"
+      correctAnswer: "d"
     },
     {
-      question: "What kind of undersea life does SpongeBob enjoy catching?",
+      question: "Whose grave does Mr. Krbas defile to get his claws on a rare novelty drinks hat?",
       answers: {
-        a: "Jellyfish",
-        b: "Octopus",
-        c: "Krill",
-        d: "Other Sponges"
+        a: "His father",
+        b: "Smitty Werben Jaeger Man Jensen",
+        c: "Margaret Thatcher",
+        d: "Nosferatu"
       },
       correctAnswer: "a"
     },
@@ -137,15 +137,15 @@
       correctAnswer: "b"
     },
     {
-      question: "As of the SpongeBob Movie (2004), how many consecutive Employee of the Month awards has SpongeBob won?",
+      question: "How much money does Mr. Krabs sell SpongeBob to the Flying Dutchman for?",
       answers: {
-        a: "274",
-        b: "6",
-        c: "1000",
-        d: "374"
+        a: "62 cents",
+        b: "1 dollar",
+        c: "1 cent",
+        d: "12 dollars"
       },
       correctAnswer: "d"
-    }
+    },
 	{
       question: "How many times has SpongeBob failed his driving test, as of the episode Mrs. Puff You're Fired?",
       answers: {

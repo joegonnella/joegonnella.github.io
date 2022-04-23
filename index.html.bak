@@ -16,20 +16,56 @@
     <button id="submit">Submit Quiz</button>
     <div id="results"></div>
     <div class="sidebar">
-	  <div>Home</div>
+	  <a href="\index.html">
+      <div>
+        Home	
+      </div>
+      </a>
       <a href="\spongebob.html">
       <div>
         SpongeBob SquarePants	
       </div>
       </a>
-      <div>Patrick Star</div>
-      <div>Squidward Tentacles</div>
-      <div>Mr. Krabs</div>
-      <div>Plankton and Karen</div>
-      <div>Sandy Cheeks</div>
-      <div>Mrs. Puff</div>
-      <div>Pearl</div>
-      <div>Gary the Snail</div>
+       <a href="\patrick.html">
+      <div>
+        Patrick Star	
+      </div>
+      </a>
+       <a href="\squidward.html">
+      <div>
+        Squidward Tentacles
+      </div>
+      </a>
+       <a href="\krabs.html">
+      <div>
+        Mr. Krabs	
+      </div>
+      </a>
+       <a href="\plank.html">
+      <div>
+        Plankton and Karen
+      </div>
+      </a>
+       <a href="\sandy.html">
+      <div>
+        Sandy Cheeks	
+      </div>
+      </a>
+       <a href="\puff.html">
+      <div>
+        Mrs. Puff	
+      </div>
+      </a>
+       <a href="\pearl.html">
+      <div>
+        Pearl	
+      </div>
+      </a>
+       <a href="\gary.html">
+      <div>
+        Gary the Snail	
+      </div>
+      </a>
     </div>
     <script type="text/javascript" src="quiz1.js"></script>
   

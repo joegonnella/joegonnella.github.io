@@ -107,7 +107,7 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "Which type of tropical fruit does SpongeBob live in?",
+      question: "What tropical fruit does SpongeBob live in?",
       answers: {
         a: "Papaya",
         b: "Mango",
@@ -117,7 +117,7 @@
       correctAnswer: "c"
     },
     {
-      question: "Which kind of undersea life does SpongeBob enjoy catching?",
+      question: "What kind of undersea life does SpongeBob enjoy catching?",
       answers: {
         a: "Jellyfish",
         b: "Octopus",

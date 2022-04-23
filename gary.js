@@ -107,52 +107,52 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "Which type of tropical fruit does SpongeBob live in?",
+      question: "What noise does Gary make?",
       answers: {
-        a: "Papaya",
-        b: "Mango",
-        c: "Pineapple",
-        d: "Guava"
-      },
-      correctAnswer: "c"
-    },
-    {
-      question: "Which kind of undersea life does SpongeBob enjoy catching?",
-      answers: {
-        a: "Jellyfish",
-        b: "Octopus",
-        c: "Krill",
-        d: "Other Sponges"
-      },
-      correctAnswer: "a"
-    },
-	{
-      question: "What must SpongeBob wear to survive when he's inside Sandy's Tree Dome",
-      answers: {
-        a: "A bowtie",
-        b: "A Water Bowl",
-        c: "Jeans",
-        d: "His glasses"
+        a: "Bark",
+        b: "Meow",
+        c: "Chirp",
+        d: "Bonk"
       },
       correctAnswer: "b"
     },
     {
-      question: "As of the SpongeBob Movie (2004), how many consecutive Employee of the Month awards has SpongeBob won?",
+      question: "Which other kind of sea creature do we find in Gary's lineage?",
       answers: {
-        a: "274",
-        b: "6",
-        c: "1000",
-        d: "374"
+        a: "Whales",
+        b: "Crabs",
+        c: "Sponges",
+        d: "Starfish"
       },
       correctAnswer: "d"
     },
 	{
-      question: "How many times has SpongeBob failed his driving test, as of the episode Mrs. Puff You're Fired?",
+      question: "Which fake disease does Patrick diagnose Gary with, which just turns out to just be a splinter?",
       answers: {
-        a: "1",
-        b: "897",
-        c: "23000",
-        d: "1258056"
+        a: "Mad Snail Disease",
+        b: "Crazy Snail Disease",
+        c: "Snailpox",
+        d: "Snaifluenza"
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "Which type of food made Gary momentarily abondon SpongeBob for Patrick?",
+      answers: {
+        a: "Cookies",
+        b: "Ice Cream",
+        c: "Kelp",
+        d: "Chips"
+      },
+      correctAnswer: "a"
+    },
+	{
+      question: "What colour are Gary's shoes when it is revealed he has legs?",
+      answers: {
+        a: "Blue",
+        b: "Red",
+        c: "Green",
+        d: "Brown"
       },
       correctAnswer: "d"
     },
