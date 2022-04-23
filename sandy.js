@@ -117,7 +117,7 @@
       correctAnswer: "b"
     },
     {
-      question: "Which sport has Sandy not been shown to partake in"
+      question: "Which sport has Sandy not been shown to partake in",
       answers: {
         a: "Sandboarding",
         b: "Karate",
