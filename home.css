@@ -51,6 +51,9 @@ a:visited {
 
 .welcome {
 	font-size: 30px;
+	padding-left: 300px;
+    padding-top: 30px;
+    width: 70%;
 }
 
 .column1 {
