@@ -2,12 +2,15 @@
 
 
 body{
-	font-size: 30px;
-	font-family: 'Slackey';
-	color: #333;
+  font-size: 30px;
+  font-family: 'Slackey';
+  color: #333;
   font-weight: 300;
   text-align: center;
-  background-color: #00BFFF;
+  background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 h1{
   font-weight: 300;
