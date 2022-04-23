@@ -52,3 +52,27 @@ a:visited {
 .welcome {
 	font-size: 30px;
 }
+
+.column1 {
+  float: left;
+  width: 20%;
+  padding: 5px;
+}
+
+.row1::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.column2 {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+.row2::after {
+  content: "";
+  clear: both;
+  display: table;
+}
