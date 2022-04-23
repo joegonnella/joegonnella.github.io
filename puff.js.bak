@@ -107,54 +107,54 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "What role does Pearl play in the Krusty Krab commercial?",
+      question: "What tropical fruit does SpongeBob live in?",
       answers: {
-        a: "Amy",
-        b: "Herself",
-        c: "A boatmobile",
-        d: "Mr. Krabs"
-      },
-      correctAnswer: "a"
-    },
-    {
-      question: "What name does Pearl give the Krusty Krab when she is given free rein?",
-      answers: {
-        a: "Kool Krab",
-        b: "Kuddly Krab",
-        c: "Kickin' Krab",
-        d: "The Krab"
-      },
-      correctAnswer: "d"
-    },
-	{
-      question: "What is the name of Pearl's favourite band?",
-      answers: {
-        a: "The Flippers",
-        b: "Peg Leg Pete and the Sailors",
-        c: "Boys Who Cry",
-        d: "Hex Girls"
+        a: "Papaya",
+        b: "Mango",
+        c: "Pineapple",
+        d: "Guava"
       },
       correctAnswer: "c"
     },
     {
-      question: "Who does Pearl take to her prom as a chaperone?",
+      question: "What kind of undersea life does SpongeBob enjoy catching?",
       answers: {
-        a: "Octavius Rex",
-        b: "Squidward",
-        c: "Billy Fishkins",
-        d: "SpongeBob"
+        a: "Jellyfish",
+        b: "Octopus",
+        c: "Krill",
+        d: "Other Sponges"
+      },
+      correctAnswer: "a"
+    },
+	{
+      question: "What must SpongeBob wear to survive when he's inside Sandy's Tree Dome",
+      answers: {
+        a: "A bowtie",
+        b: "A Water Bowl",
+        c: "Jeans",
+        d: "His glasses"
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "As of the SpongeBob Movie (2004), how many consecutive Employee of the Month awards has SpongeBob won?",
+      answers: {
+        a: "274",
+        b: "6",
+        c: "1000",
+        d: "374"
       },
       correctAnswer: "d"
     },
 	{
-      question: "What talent does Pearl perform for the show in the episode Culture Shock",
+      question: "How many times has SpongeBob failed his driving test, as of the episode Mrs. Puff You're Fired?",
       answers: {
-        a: "Cheerleading",
-        b: "Holding her breath",
-        c: "Singing",
-        d: "A makeover"
+        a: "1",
+        b: "897",
+        c: "23000",
+        d: "1258056"
       },
-      correctAnswer: "a"
+      correctAnswer: "d"
     },
   ];
 

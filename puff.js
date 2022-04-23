@@ -107,52 +107,52 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "What tropical fruit does SpongeBob live in?",
+      question: "Which character is Mrs. Puff thought to be romatically involved with?",
       answers: {
-        a: "Papaya",
-        b: "Mango",
-        c: "Pineapple",
-        d: "Guava"
+        a: "Squidward",
+        b: "Larry the Lobster",
+        c: "SpongeBob",
+        d: "Mr. Krabs"
       },
-      correctAnswer: "c"
+      correctAnswer: "d"
     },
     {
-      question: "What kind of undersea life does SpongeBob enjoy catching?",
+      question: "What became of Mr. Puff, Mrs. Puff's first husband?",
       answers: {
-        a: "Jellyfish",
-        b: "Octopus",
-        c: "Krill",
-        d: "Other Sponges"
+        a: "Turned into a lamp",
+        b: "Eaten by a shark",
+        c: "Unknown",
+        d: "In jail"
       },
       correctAnswer: "a"
     },
 	{
-      question: "What must SpongeBob wear to survive when he's inside Sandy's Tree Dome",
+      question: "In her boating school, what are good students described as?",
       answers: {
-        a: "A bowtie",
-        b: "A Water Bowl",
-        c: "Jeans",
-        d: "His glasses"
+        a: "Good noodles",
+        b: "Teacher's pets",
+        c: "High flyers",
+        d: "Angels"
       },
-      correctAnswer: "b"
+      correctAnswer: "a"
     },
     {
-      question: "As of the SpongeBob Movie (2004), how many consecutive Employee of the Month awards has SpongeBob won?",
+      question: "What does Mrs. Puff cook for the inmates when she spends time in jail during the episode Doing Time?",
       answers: {
-        a: "274",
-        b: "6",
-        c: "1000",
-        d: "374"
+        a: "Kelp fries",
+        b: "Chilli",
+        c: "Chum",
+        d: "Coral bits"
       },
       correctAnswer: "d"
     },
 	{
-      question: "How many times has SpongeBob failed his driving test, as of the episode Mrs. Puff You're Fired?",
+      question: "What is the name of the egg Mrs. Puff gives her class as a project in the epiosde New Student Starfish?",
       answers: {
-        a: "1",
-        b: "897",
-        c: "23000",
-        d: "1258056"
+        a: "Terrence",
+        b: "Reg",
+        c: "Tony",
+        d: "Roger"
       },
       correctAnswer: "d"
     },

@@ -107,54 +107,54 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "What tropical fruit does SpongeBob live in?",
+      question: "What is Plankton's first name?",
       answers: {
-        a: "Papaya",
-        b: "Mango",
-        c: "Pineapple",
-        d: "Guava"
+        a: "Bobby",
+        b: "Barbra",
+        c: "Sheldon",
+        d: "Peter"
       },
       correctAnswer: "c"
     },
     {
-      question: "What kind of undersea life does SpongeBob enjoy catching?",
+      question: "What is the name of the restaurant that Plankton and Karen run?",
       answers: {
-        a: "Jellyfish",
-        b: "Octopus",
-        c: "Krill",
-        d: "Other Sponges"
+        a: "Chum Bucket",
+        b: "Slop Hole",
+        c: "Krusty Krab",
+        d: "Weenie Hut Jr"
       },
       correctAnswer: "a"
     },
 	{
-      question: "What must SpongeBob wear to survive when he's inside Sandy's Tree Dome",
+      question: "Which of these is not a descriptor used by Plankton about Plan Z in the SpongeBob Movie (2004)?",
       answers: {
-        a: "A bowtie",
-        b: "A Water Bowl",
-        c: "Jeans",
-        d: "His glasses"
+        a: "Diabolical",
+        b: "Despicable",
+        c: "Evil",
+        d: "Lemon-scented"
       },
       correctAnswer: "b"
     },
     {
-      question: "As of the SpongeBob Movie (2004), how many consecutive Employee of the Month awards has SpongeBob won?",
+      question: "Canonically, how many times has Plankton been arrested?",
       answers: {
-        a: "274",
-        b: "6",
-        c: "1000",
-        d: "374"
+        a: "1",
+        b: "2",
+        c: "4",
+        d: "5"
       },
       correctAnswer: "d"
     },
 	{
-      question: "How many times has SpongeBob failed his driving test, as of the episode Mrs. Puff You're Fired?",
+      question: "How many years have Plankton and Karen been married for?",
       answers: {
-        a: "1",
-        b: "897",
-        c: "23000",
-        d: "1258056"
+        a: "19",
+        b: "26",
+        c: "29",
+        d: "34"
       },
-      correctAnswer: "d"
+      correctAnswer: "b"
     },
   ];
 

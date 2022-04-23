@@ -107,54 +107,54 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "What tropical fruit does SpongeBob live in?",
+      question: "What is Sandy's home state in the USA?",
       answers: {
-        a: "Papaya",
-        b: "Mango",
-        c: "Pineapple",
-        d: "Guava"
-      },
-      correctAnswer: "c"
-    },
-    {
-      question: "What kind of undersea life does SpongeBob enjoy catching?",
-      answers: {
-        a: "Jellyfish",
-        b: "Octopus",
-        c: "Krill",
-        d: "Other Sponges"
-      },
-      correctAnswer: "a"
-    },
-	{
-      question: "What must SpongeBob wear to survive when he's inside Sandy's Tree Dome",
-      answers: {
-        a: "A bowtie",
-        b: "A Water Bowl",
-        c: "Jeans",
-        d: "His glasses"
+        a: "Louisiana",
+        b: "Texas",
+        c: "Mississippi",
+        d: "Tennessee"
       },
       correctAnswer: "b"
     },
     {
-      question: "As of the SpongeBob Movie (2004), how many consecutive Employee of the Month awards has SpongeBob won?",
+      question: "Which sport has Sandy not been shown to partake in"
       answers: {
-        a: "274",
-        b: "6",
-        c: "1000",
-        d: "374"
+        a: "Sandboarding",
+        b: "Karate",
+        c: "Volleyball",
+        d: "Football"
       },
       correctAnswer: "d"
     },
 	{
-      question: "How many times has SpongeBob failed his driving test, as of the episode Mrs. Puff You're Fired?",
+      question: "Which creature does Sandy attempt to wrestle after it threatens to destroy Bikini Bottom",
       answers: {
-        a: "1",
-        b: "897",
-        c: "23000",
-        d: "1258056"
+        a: "Alaskan Bull Worm",
+        b: "Kraken",
+        c: "Pearl",
+        d: "The Flying Dutchman"
       },
-      correctAnswer: "d"
+      correctAnswer: "a"
+    },
+    {
+      question: "How far does Sandy throw in the Goo Lagoon Anchor Toss in the episode MuscleBob BuffPants",
+	  answers: {
+        a: "100 yards",
+        b: "6 miles",
+        c: "510 yards",
+        d: "1 mile"
+      },
+      correctAnswer: "c"
+    },
+	{
+      question: "Which of these chimps is part of the group that employ Sandy?",
+      answers: {
+        a: "Professor Percy",
+        b: "Dr. Carroway",
+        c: "Lord Tobias",
+        d: "Dr. Reginald"
+      },
+      correctAnswer: "a"
     },
   ];
 

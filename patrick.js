@@ -1,5 +1,4 @@
 (function(){
-  // Functions
   function buildQuiz(){
     // variable to store the HTML output
     const output = [];
@@ -107,52 +106,52 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "What tropical fruit does SpongeBob live in?",
+      question: "What is the only thing Patrick has added to decorate the outside of his rock?",
       answers: {
-        a: "Papaya",
-        b: "Mango",
-        c: "Pineapple",
-        d: "Guava"
+        a: "Windows",
+        b: "Herb planters",
+        c: "Pink flamingoes",
+        d: "An antenna"
+      },
+      correctAnswer: "d"
+    },
+    {
+      question: "Complete the line: 'The inner machinations of my mind are ______?",
+      answers: {
+        a: "A mystery",
+        b: "Disturbed",
+        c: "An enigma",
+        d: "Pink"
+      },
+      correctAnswer: "c"
+    },
+	{
+      question: "When Patrick dresses as a girl to hide from his alleged hitman, what name does he take?",
+      answers: {
+        a: "Pauline",
+        b: "Pamela",
+        c: "Patricia",
+        d: "Patina"
       },
       correctAnswer: "c"
     },
     {
-      question: "What kind of undersea life does SpongeBob enjoy catching?",
+      question: "How many mattresses does Patrick estimate to be in the mattress store??",
       answers: {
-        a: "Jellyfish",
-        b: "Octopus",
-        c: "Krill",
-        d: "Other Sponges"
+        a: "10",
+        b: "100",
+        c: "1000",
+        d: "10000"
       },
       correctAnswer: "a"
     },
 	{
-      question: "What must SpongeBob wear to survive when he's inside Sandy's Tree Dome",
+      question: "HWhat is the first name of Patrick's father?",
       answers: {
-        a: "A bowtie",
-        b: "A Water Bowl",
-        c: "Jeans",
-        d: "His glasses"
-      },
-      correctAnswer: "b"
-    },
-    {
-      question: "As of the SpongeBob Movie (2004), how many consecutive Employee of the Month awards has SpongeBob won?",
-      answers: {
-        a: "274",
-        b: "6",
-        c: "1000",
-        d: "374"
-      },
-      correctAnswer: "d"
-    },
-	{
-      question: "How many times has SpongeBob failed his driving test, as of the episode Mrs. Puff You're Fired?",
-      answers: {
-        a: "1",
-        b: "897",
-        c: "23000",
-        d: "1258056"
+        a: "Cecil",
+        b: "Marty",
+        c: "Eugene",
+        d: "Herb"
       },
       correctAnswer: "d"
     },

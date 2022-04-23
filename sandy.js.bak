@@ -107,54 +107,54 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "What role does Pearl play in the Krusty Krab commercial?",
+      question: "What is Sandy's home state in the USA?",
       answers: {
-        a: "Amy",
-        b: "Herself",
-        c: "A boatmobile",
-        d: "Mr. Krabs"
+        a: "Louisiana",
+        b: "Texas",
+        c: "Mississippi",
+        d: "Tennessee"
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
     {
-      question: "What name does Pearl give the Krusty Krab when she is given free rein?",
+      question: "Which sport has Sandy not been shown to partake in"
       answers: {
-        a: "Kool Krab",
-        b: "Kuddly Krab",
-        c: "Kickin' Krab",
-        d: "The Krab"
+        a: "Sandboarding",
+        b: "Karate",
+        c: "Volleyball",
+        d: "Football"
       },
       correctAnswer: "d"
     },
 	{
-      question: "What is the name of Pearl's favourite band?",
+      question: "Which creature does Sandy attempt to wrestle after it threatens to destroy Bikini Bottom",
       answers: {
-        a: "The Flippers",
-        b: "Peg Leg Pete and the Sailors",
-        c: "Boys Who Cry",
-        d: "Hex Girls"
+        a: "Alaskan Bull Worm",
+        b: "Kraken",
+        c: "Pearl",
+        d: "The Flying Dutchman"
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "How far does Sandy throw in the Goo Lagoon Anchor Toss in the episode MuscleBob BuffPants",
+	  answers: {
+        a: "100 yards",
+        b: "6 miles",
+        c: "510 yards",
+        d: "1 mile"
       },
       correctAnswer: "c"
     },
-    {
-      question: "Who does Pearl take to her prom as a chaperone?",
+	{
+      question: "Which of these chimps is part of the group that employ Sandy?",
       answers: {
-        a: "Octavius Rex",
-        b: "Squidward",
-        c: "Billy Fishkins",
-        d: "SpongeBob"
+        a: "Professor Percy",
+        b: "Dr. Carroway",
+        c: "Lord Tobias",
+        d: "Dr. Reginald"
       },
       correctAnswer: "d"
-    },
-	{
-      question: "What talent does Pearl perform for the show in the episode Culture Shock",
-      answers: {
-        a: "Cheerleading",
-        b: "Holding her breath",
-        c: "Singing",
-        d: "A makeover"
-      },
-      correctAnswer: "a"
     },
   ];
 
