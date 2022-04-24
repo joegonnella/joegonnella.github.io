@@ -64,7 +64,7 @@
 	</div>
 	<div class="row1">
 	  <div class="column1">
-        <img src="empty.png" style="width:100%">
+        <img src="empty.png" style="width:30%">
 	  </div>
       <div class="column1">
         <img src="spongebob.png" style="width:100%">
@@ -84,7 +84,7 @@
     </div>
 	<div class="row2">
       <div class="column2">
-        <img src="empty.png" style="width:100%">
+        <img src="empty.png" style="width:30%">
 	  </div>
 	  <div class="column2">
         <img src="patrick.png" style="width:100%">
