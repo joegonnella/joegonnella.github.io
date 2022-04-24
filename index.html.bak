@@ -63,8 +63,11 @@
 	  Welcome to the SpongeBob Squarepants Quiz! Please click on a character in the menu to get started
 	</div>
 	<div class="row1">
+	  <div class="column1">
+        <img src="empty.png" style="width:100%">
       <div class="column1">
         <img src="spongebob.png" style="width:100%">
+      </div>
       </div>
       <div class="column1">
         <img src="squidward.png" style="width:100%">
@@ -81,6 +84,8 @@
     </div>
 	<div class="row2">
       <div class="column2">
+        <img src="empty.png" style="width:100%">
+	  <div class="column2">
         <img src="patrick.png" style="width:100%">
       </div>
       <div class="column2">
